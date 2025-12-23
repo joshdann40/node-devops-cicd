@@ -14,7 +14,7 @@
     "sonar": "sonar-scanner"
   },
   "author": "riaan@entersekt.com",
-  "description": "Basic to do list exercise",
+  "description": "Basic to do list exercises",
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.1",
